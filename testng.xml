@@ -5,7 +5,7 @@
 
     <test name="Login Test">
         <classes>
-            <class name="gettingstarted.LoginLogoutTestNG"/>
+            <class name="gettingstarted.LoginLogoutJenkins"/>
         </classes>
     </test>
 
