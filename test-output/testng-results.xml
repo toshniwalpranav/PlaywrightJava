@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-08-25T15:16:13 IST" name="Playwright Suite" finished-at="2026-08-25T15:17:06 IST" duration-ms="53544">
+  <suite started-at="2026-08-27T14:18:18 IST" name="Default suite" finished-at="2026-08-27T14:19:07 IST" duration-ms="49116">
     <groups>
     </groups>
-    <test started-at="2026-08-25T15:16:13 IST" name="Login Test" finished-at="2026-08-25T15:17:06 IST" duration-ms="53544">
-      <class name="gettingstarted.LoginLogoutJenkins">
-        <test-method signature="loginTest()[pri:0, instance:gettingstarted.LoginLogoutJenkins@7f3b84b8]" started-at="2026-08-25T15:16:13 IST" name="loginTest" finished-at="2026-08-25T15:17:06 IST" duration-ms="53267" status="PASS">
+    <test started-at="2026-08-27T14:18:18 IST" name="Default test" finished-at="2026-08-27T14:19:07 IST" duration-ms="49116">
+      <class name="gettingstarted.KeyboardDemo">
+        <test-method signature="test()[pri:0, instance:gettingstarted.KeyboardDemo@7f3b84b8]" started-at="2026-08-27T14:18:18 IST" name="test" finished-at="2026-08-27T14:19:07 IST" duration-ms="48915" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginTest -->
-      </class> <!-- gettingstarted.LoginLogoutJenkins -->
-    </test> <!-- Login Test -->
-  </suite> <!-- Playwright Suite -->
+        </test-method> <!-- test -->
+      </class> <!-- gettingstarted.KeyboardDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
