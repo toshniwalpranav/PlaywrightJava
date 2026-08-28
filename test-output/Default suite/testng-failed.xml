@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="gettingstarted.KeyboardDemo">
+      <class name="PageObjectModel.TestUsingPOM2">
         <methods>
-          <include name="demoTest"/>
+          <include name="login"/>
         </methods>
-      </class> <!-- gettingstarted.KeyboardDemo -->
+      </class> <!-- PageObjectModel.TestUsingPOM2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
